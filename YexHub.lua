@@ -1,0 +1,10 @@
+local Window = loadstring(game:HttpGet("https://raw.githubusercontent.com/YexScript/YexScript.lua/refs/heads/main/YexScript.lua"))()
+
+local MainTab = Window:CreateTab("Main")
+local TeleportTab = Window:CreateTab("Teleport")
+local ESPTab = Window:CreateTab("ESP")
+local MiscTab = Window:CreateTab("Misc")
+local StatusTab = Window:CreateTab("Status")
+local DevilFruitTab = Window:CreateTab("Devil Fruit")
+local VolcanoTab = Window:CreateTab("Volcano")
+local V4Tab = Window:CreateTab("V4/Mirrage")
